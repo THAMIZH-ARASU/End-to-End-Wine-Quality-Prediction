@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/THAMIZH-ARASU/End-to-End-Wine-Quality-Prediction/raw/main/data/winequality.zip
+  local_file_name: artfacts/data/data.zip
+  unzip_dir: artifacts/data_ingestion
+
